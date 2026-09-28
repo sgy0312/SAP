@@ -1,11 +1,11 @@
 # SAP-ABAP
 
-SAP 相关项目仓库集合。各项目以独立目录平铺存放，均为独立的 git 子仓库。
+SAP-ABAP 相关项目仓库集合。各项目以独立目录平铺存放，均为独立的 git 子仓库。
 
 ## 项目列表
 
 ```text
-SAP/
+SAP-ABAP/
 ├── BOM-Batch-Query/
 ├── Bulk-cancellation-of-production-orders-and-cancellation-of-settlement/
 ├── Customized-program-translation/
